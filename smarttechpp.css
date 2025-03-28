@@ -33,7 +33,7 @@ footer{
 	text-align: center;
 	color: black;
 	clear: both;
-	height: 70px;
+	height: 40px;
     margin-bottom: 0px;
     width: 100%;
 
@@ -51,7 +51,8 @@ section{
 	float: left;
 	overflow: auto;
         margin-left: 5%;
-
+	
+        margin-right: 5%;
 }
 
 a:hover{color: #01040a; }
