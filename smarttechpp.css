@@ -11,8 +11,11 @@ body{
 }
 header{
 	background: #fff;
-	width: 100%;
+	width: 90%;
 	height: 88px;
+	margin-left: 5%;
+	
+        margin-right: 5%;
 }
 
 #mubaslog1{
