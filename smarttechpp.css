@@ -46,10 +46,12 @@ footer{
 }
 section{
 	display: inline;
-	width: 70%;
+	width: 90%;
 	height: 60%;
 	float: left;
 	overflow: auto;
+        margin-left: 5%;
+
 }
 
 a:hover{color: #01040a; }
